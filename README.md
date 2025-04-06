@@ -6,7 +6,9 @@ Dependencies:
 These examples require additional SuperCollider extensions:
 
 The Ambisonic Toolkit (ATK)
+
 SC-HOA library
+
 PitchShiftPA Quark
 
 Related Research
