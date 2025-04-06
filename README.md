@@ -2,7 +2,7 @@
 This repository contains the SuperCollider code examples and implementations discussed in my master's thesis "Fluid Sonic Architectures: Performing Spatial Sound through Creative Coding" (Sibelius Academy, UniArts Helsinki, 2025).
 
 
-Dependencies
+Dependencies:
 These examples require additional SuperCollider extensions:
 
 The Ambisonic Toolkit (ATK)
